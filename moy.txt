@@ -1,0 +1,3 @@
+Estas es una leve historia para 
+
+Seguir el curso de git con freddy
